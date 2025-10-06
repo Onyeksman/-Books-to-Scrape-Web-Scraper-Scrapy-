@@ -87,8 +87,9 @@ custom_settings = {
 * UTF-8 encoding ensures compatibility with Excel, Streamlit, and Power BI.
 * Clean logs (INFO level) make it suitable for client or production environments.
 
+---
 
-5️⃣ Standalone Execution
+### 5️⃣ Standalone Execution
 
 This spider can run without the Scrapy CLI using:
 
@@ -101,7 +102,9 @@ So you can launch it simply with:
 
 python books_spider.py
 
-📊 Sample Output
+---
+
+### 📊 Sample Output
 
 After completion, you’ll find a file books_info.csv like this:
 
@@ -113,7 +116,9 @@ After completion, you’ll find a file books_info.csv like this:
 
 This file can be used directly in your Streamlit dashboard or any data visualization tool.
 
-🧰 Tech Stack
+---
+
+### 🧰 Tech Stack
 
 | Purpose                      | Tool                                           |
 | ---------------------------- | ---------------------------------------------- |
@@ -123,7 +128,9 @@ This file can be used directly in your Streamlit dashboard or any data visualiza
 | **Visualization (optional)** | Streamlit + Plotly (for dashboard integration) |
 
 
-⚙️ Installation & Usage
+---
+
+### ⚙️ Installation & Usage
 1️⃣ Clone this repository
 
 git clone https://github.com/<your-username>/books-to-scrape-scraper.git
@@ -141,7 +148,9 @@ python books_spider.py
 
 A file named books_info.csv will appear in the same directory.
 
-🧠 Integration with Streamlit Dashboard
+---
+
+### 🧠 Integration with Streamlit Dashboard
 
 This scraper is part of a two-step data project:
 
@@ -152,12 +161,16 @@ This scraper is part of a two-step data project:
 You can find the Streamlit dashboard version here 👉 Books Dashboard Repo
  (replace with your actual link).
 
-🧾 License
+ ---
+
+###🧾 License
 
 This project is released under the MIT License.
 You’re free to use, modify, or build upon it with proper credit.
 
-👨‍💻 Author
+---
+
+### 👨‍💻 Author
 
 Onyekachi Ejimofor
 Python Developer | Web Scraping & Automation | Data Visualization
