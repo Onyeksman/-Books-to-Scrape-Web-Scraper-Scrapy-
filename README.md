@@ -163,7 +163,7 @@ You can find the Streamlit dashboard version here 👉 Books Dashboard Repo
 
  ---
 
-###🧾 License
+### 🧾 License
 
 This project is released under the MIT License.
 You’re free to use, modify, or build upon it with proper credit.
