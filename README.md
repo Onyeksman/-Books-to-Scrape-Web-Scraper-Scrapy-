@@ -159,8 +159,7 @@ This scraper is part of a two-step data project:
 2.    Data Visualization: Use the companion app streamlit_books_dashboard.py to interactively explore the dataset.
 
 You can find the Streamlit dashboard version here 👉 Books Dashboard Repo
- ([Open Streamlit App](http://10.160.160.197:8501)
-).
+[📊 View the Books Dashboard App](https://books-dashboard.streamlit.app/)
 
  ---
 
