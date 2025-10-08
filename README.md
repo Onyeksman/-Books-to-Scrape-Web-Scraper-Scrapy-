@@ -26,7 +26,7 @@ It automatically crawls every page of the “Books to Scrape” catalog, normali
 | 📘 **Data Extraction** | Extracts book title, price, rating, stock availability, and image URL. |
 | 🔁 **Pagination Handling** | Automatically follows “Next” page links until all books are scraped. |
 | 💾 **Clean CSV Export** | Outputs data to `books_info.csv` with UTF-8 encoding for Excel/Streamlit compatibility. |
-| 🧩 **Plug-and-Play** | The resulting CSV works directly with the [Books Dashboard](https://books-dashboard.streamlit.app/). |
+| 🧩 **Plug-and-Play** | The resulting CSV works directly with the [Books Dashboard](https://books--dashboard.streamlit.app/). |
 | 🧱 **Lightweight & Portable** | Single-file script — no project scaffolding needed. |
 
 ---
@@ -159,7 +159,7 @@ This scraper is part of a two-step data project:
 2.    Data Visualization: Use the companion app streamlit_books_dashboard.py to interactively explore the dataset.
 
 You can find the Streamlit dashboard version here 👉 Books Dashboard Repo
-[📊 View the Books Dashboard App](https://books-dashboard.streamlit.app/)
+[📊 View the Books Dashboard App](https://books--dashboard.streamlit.app/)
 
  ---
 
