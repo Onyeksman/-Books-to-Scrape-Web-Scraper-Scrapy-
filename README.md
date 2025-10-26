@@ -175,7 +175,4 @@ You’re free to use, modify, or build upon it with proper credit.
 # 🧑‍💻 Onyekachi Ejimofor  
 **Python Developer | Web Scraping & Automation | Data Visualization**
 
-📧 **Email:** [onyeife@gmail.com](mailto:onyeife@gmail.com)  
-🌐 **GitHub:** [github.com/Onyeksman](https://github.com/Onyeksman)  
-💼 **LinkedIn:** [linkedin.com/in/onyekachiejimofor](https://www.linkedin.com/in/onyekachiejimofor)
 
