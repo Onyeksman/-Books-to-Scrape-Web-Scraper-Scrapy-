@@ -133,9 +133,6 @@ This file can be used directly in your Streamlit dashboard or any data visualiza
 ### ⚙️ Installation & Usage
 1️⃣ Clone this repository
 
-git clone https://github.com/<your-username>/books-to-scrape-scraper.git
-cd books-to-scrape-scraper
-
 2️⃣ Install dependencies
 
 pip install scrapy
